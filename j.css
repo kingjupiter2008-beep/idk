@@ -1,0 +1,209 @@
+p{
+  font-family: arial;
+}
+.title {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+  width: 350px;
+  line-height: 24px;
+  margin-bottom: 0px;
+}
+.stats {
+  color: rgb(100, 99, 99);
+font-size: 14px;
+margin-top: 10px ;
+}
+.ex1 p {
+  font-family: Verdana;
+}
+.top-text {
+  margin-top: 40px;
+  font-weight: bold;
+  margin-bottom: 0;
+  font-size: 17px;
+}
+.Bottom-text {
+  margin-top: 7px;
+  color: rgb(113, 112, 112);
+}
+.description {
+  width: 300px;
+}
+.get {
+  border: none;
+  padding: 7px;
+  border-radius: 4px;
+  color: white;
+  background-color: green;
+  transition: transform 0.3s ease-out, color 0.3s, background-color 0.3s;
+}
+.get:hover{
+  background-color: rgb(231, 227, 227);
+  color:green ;
+  transform: scale(0.95) ;
+}
+.price p{
+  font-family: verdana;
+
+}
+.pricee {
+  font-weight: bold;
+
+}
+.usd {
+  color: grey;
+  font-size: 13px;
+  font-weight: normal;
+  margin-left: 5px;
+}
+.statt {
+  margin-bottom: 10px;
+  color: rgb(0, 99, 0)
+}
+.after {
+  color: grey;
+  margin-top: 0;
+}
+.ex{
+  color: red;
+
+}
+.model {
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 6px;
+
+}
+.order{
+  text-align: center;
+  margin-top: 0;
+}
+.touch{
+  text-decoration:underline;
+
+}
+.first, .last{
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  border: solid 1px rgb(207, 206, 206);
+  margin-bottom: 5px;
+text-indent: 5px;
+}
+.email{
+  display: block;
+  width: 209px;
+  height: 30px;
+  border-radius: 5px;
+  border: solid 1px rgb(207, 206, 206);
+  margin-bottom: 5px;
+  text-indent: 5px;
+  margin-bottom: 7px;
+}
+.sign {
+  width: 214px;
+  height: 35px;
+  background-color: rgb(8, 189, 249);
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.names {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.req {
+  display: inline-block;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.ride{
+  display: inline-block;
+}
+.pickup{
+  display: block;
+  border: none;
+  background-color: rgb(224, 224, 224);
+  height: 30px;
+  width: 220px;
+  text-indent: 10px;
+  margin-bottom: 5px;
+}
+.des{
+  display: block;
+  border: none;
+  background-color: rgb(224, 224, 224);
+  height: 30px;
+  width: 220px;
+  text-indent: 10px;
+  margin-bottom: 9px;
+}
+.reqn{
+  border: none;
+  height: 35px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.sch{
+  border: none;
+  height: 35px;
+  background-color: rgb(223, 223, 223);
+  font-size: 12px;
+  padding-left: 15px;
+  padding-right: 15px; 
+
+}
+.butt {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: 50px 50px 50px ;
+  gap: 5px;
+
+}
+.buttons button{
+  border: none ;
+  width: 50px;
+  height: 50px;
+  border-radius: 7px;
+  background-color: rgb(157, 219, 157);
+
+}
+.calci{
+  border: none;
+  background-color: rgb(234, 232, 232);
+  margin-bottom: 9px;
+  width: 215px;
+  height: 30px;
+  border-radius: 5px  ;
+}
+.calc{
+  margin-top: 30px;
+  text-align: center;
+  width: 215px;
+}
+.cal {
+  justify-content: center;
+  border: none;
+  height: 50px;
+  width: 215px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: transform 0.2s ease-out;
+}
+.cal:active{
+  transform: scale(0.95);
+}
+.o{
+  margin-top: 5px;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 5px;
+}
